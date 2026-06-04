@@ -52,6 +52,8 @@ It is built as a SaaS-style portfolio project demonstrating real-world AI automa
 
 ## 🏗️ System Architecture
 
+
+```mermaid
 User Input (Streamlit Dashboard)
         ↓
 Lead Discovery Layer (Scraper / Demo Data / Yellow Pages)
@@ -65,6 +67,7 @@ Lead Scoring Engine (Hot / Warm / Cold Classification)
 Outreach Generator (Emails + LinkedIn + Follow-ups)
         ↓
 Analytics & Export Layer (Charts + CSV + Excel)
+```
 
 ---
 
@@ -195,11 +198,15 @@ It is a production-level simulation of modern AI-driven sales systems.
 
 ---
 
-## 👨‍💻 Author
+# 👩‍💻 Author
 
-Amna Chaudhary 
+### Amna Chaudhary
+AI & Automation Developer
 
-"Agentic AI Engineer"
+- Generative AI
+- Agentic AI Systems
+- Automation Workflows
+- AI SaaS Applications
 
 ---
 
