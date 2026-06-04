@@ -53,7 +53,7 @@ It is built as a SaaS-style portfolio project demonstrating real-world AI automa
 ## 🏗️ System Architecture
 
 
-```mermaid
+```
 User Input (Streamlit Dashboard)
         ↓
 Lead Discovery Layer (Scraper / Demo Data / Yellow Pages)
