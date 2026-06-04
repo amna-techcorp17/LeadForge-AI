@@ -1,0 +1,11 @@
+streamlit
+selenium
+beautifulsoup4
+pandas
+openpyxl
+langchain
+langchain-groq
+python-dotenv
+plotly
+webdriver-manager
+requests
