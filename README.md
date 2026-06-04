@@ -84,6 +84,8 @@ Analytics & Export Layer (Charts + CSV + Excel)
 
 ## 📁 Project Structure
 
+```
+
 leadforge-ai/
 ├── app.py
 ├── requirements.txt
@@ -101,6 +103,8 @@ leadforge-ai/
 ├── output/
 ├── screenshots/
 └── assets/
+
+```
 
 ---
 
